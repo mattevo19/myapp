@@ -12,7 +12,6 @@
 <section>
 	<h1>
 		<span class="welcome">
-			<h1>testing</h1>
 			<picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
